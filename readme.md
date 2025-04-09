@@ -5,7 +5,7 @@ The Implementation of HFFA.
 
 ## Training and Validation
 
-Our MAFDet is implemented based on the [mmdetection3.3.0](#).
+Our MAFDet is implemented based on the [mmdetection3.3.0](https://github.com/open-mmlab/mmdetection).
 
 - **Training (using NEU-DET dataset as an example):**
   
