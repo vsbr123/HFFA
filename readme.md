@@ -2,7 +2,6 @@
 
 The Implementation of HFFA.
 
-## Trained Model
 
 ## Training and Validation
 
