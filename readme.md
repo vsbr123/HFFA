@@ -1,6 +1,6 @@
 # HFFA
 
-A Strip Steel Surface Defect Detection Method.
+The Implementation of HFFA.
 
 ## Trained Model
 
